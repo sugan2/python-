@@ -1,0 +1,14 @@
+{
+  "hiveBotId": "8cdda32f-d8f3-480c-af93-d51580d31abc",
+  "executionId": "00000000-0000-0000-0000-000000000000",
+  "identityList": [],
+  "connectionParams": null,
+  "proposedBotInputs": {
+    "PythonLocation": {
+      "value": "C:\\Users\\dell\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    }
+  }
+}

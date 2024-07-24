@@ -1,0 +1,34 @@
+[
+  {
+    "name": "dmsCredentials",
+    "type": "STRING",
+    "value": "tulipGeneric"
+  },
+  {
+    "name": "domainName",
+    "type": "STRING",
+    "value": "https://dev-tulip.onebacardi.com/"
+  },
+  {
+    "name": "sheetNumber",
+    "type": "STRING",
+    "value": "sample"
+  },
+  {
+    "name": "headerRow",
+    "type": "STRING",
+    "value": "152"
+  },
+
+  {
+    "name": "dmscred",
+    "type": "STRING",
+    "value": "dmsCreateCred"
+  },
+  {
+    "name": "valueRow",
+    "type": "STRING",
+    "value": "153"
+  }
+
+]
