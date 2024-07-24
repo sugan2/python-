@@ -1,0 +1,130 @@
+[
+    {
+        "name": "tulipGeneric",
+        "credential": {
+            "basicAuth": {
+                "username": "generic",
+                "password": "v5N0]rByVEOjT"
+            },
+            "apiKey": {
+                "key": null,
+                "value": null
+            },
+
+            "bearerToken": {
+                "token": null
+            },
+            "digestAuth": {
+                "username": null,
+                "password": null,
+                "realm": null,
+                "nonce": null,
+                "algorithm": null
+            },
+            "oAuth1": {
+                "consumerKey": null,
+                "consumerSecret": null,
+                "accessToken": null,
+                "tokenSecret": null,
+                "signatureMethod": null,
+                "timestamp": null,
+                "nonce": null,
+                "version": null,
+                "realm": null
+            },
+            "oAuth2": {
+                "accessToken": null,
+                "tokenName": null,
+                "grantType": null,
+                "callbackUrl": null,
+                "authUrl": null,
+                "accessTokenUrl": null,
+                "clientId": null,
+                "clientSecret": null,
+                "scope": null,
+                "state": null
+            },
+            "ntlmAuth": {
+                "username": null,
+                "password": null,
+                "domain": null,
+                "workstation": null
+            },
+            "connectionString": {
+                "connectionString": null
+            },
+            "sapAuth": {
+                "lang": null,
+                "username": null,
+                "password": null
+            },
+            "custom": {}
+        },
+        "identityType": 0
+    },
+
+
+    {
+        "name": "sapQ00",
+        "credential": {
+            "basicAuth": {
+                "username": "dbaskaran",
+                "password": "DinaQ00@"
+            },
+            "apiKey": {
+                "key": null,
+                "value": null
+            },
+
+            "bearerToken": {
+                "token": null
+            },
+            "digestAuth": {
+                "username": null,
+                "password": null,
+                "realm": null,
+                "nonce": null,
+                "algorithm": null
+            },
+            "oAuth1": {
+                "consumerKey": null,
+                "consumerSecret": null,
+                "accessToken": null,
+                "tokenSecret": null,
+                "signatureMethod": null,
+                "timestamp": null,
+                "nonce": null,
+                "version": null,
+                "realm": null
+            },
+            "oAuth2": {
+                "accessToken": null,
+                "tokenName": null,
+                "grantType": null,
+                "callbackUrl": null,
+                "authUrl": null,
+                "accessTokenUrl": null,
+                "clientId": null,
+                "clientSecret": null,
+                "scope": null,
+                "state": null
+            },
+            "ntlmAuth": {
+                "username": null,
+                "password": null,
+                "domain": null,
+                "workstation": null
+            },
+            "connectionString": {
+                "connectionString": null
+            },
+            "sapAuth": {
+                "lang": null,
+                "username": null,
+                "password": null
+            },
+            "custom": {}
+        },
+        "identityType": 0
+    }
+]

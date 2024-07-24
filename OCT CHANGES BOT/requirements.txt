@@ -1,0 +1,14 @@
+git+https://github.com/beezlabs-org/dms-py-lib@1.0.2
+git+https://github.com/beezlabs-org/tulip-py-lib.git@1.0.1
+git+https://github.com/beezlabs-org/sap-py-lib.git@1.0.1
+PyAutoGUI==0.9.54
+pillow==10.3.0
+pytest-html~=4.1.1
+pytest~=8.2.1
+pywin32==306
+psutil~=6.0.0
+dmsService~=1.0.1
+sapAutomation~=1.0.1
+path==16.9.0
+openpyxl==3.1.2
+pandas==2.2.0
